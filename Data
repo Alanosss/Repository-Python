@@ -1,0 +1,5 @@
+a=int(input("Podaj Rok urodzenia"))
+if a<=2008:
+    print("Śmiało wchodź")
+else:
+    print("Nie masz dostępu, wypad dzieciaku")
