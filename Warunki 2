@@ -1,0 +1,3 @@
+rok=int(input("Podaj rok urodzenia"))
+rok_aktualny = 2023
+wiek = rok_aktualny = rok
